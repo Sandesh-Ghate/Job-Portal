@@ -1,4 +1,4 @@
-Job Portal Web Application
+Job Portal Web Application    
 This job portal web application streamlines the recruitment process for job seekers and employers. Built with Java, Spring Boot, Spring Security, Spring MVC, Hibernate, MySQL Workbench, and Thymeleaf, the application offers robust features and a seamless user experience.
 
 Key Features:    
